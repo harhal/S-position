@@ -13,37 +13,37 @@ Welcome to the S-Position design document. This document outlines the key mechan
 
 ## Table of Contents
 
-### 1. [General Overview](docs/overview.md)
+### 1. [General Overview](docs/overview.md) [WIP]
 - Game concept and genre
 - Target audience
 - Platforms and technical requirements
 
-### 2. [Gameplay and Mechanics](docs/mechanics.md)
+### 2. [Gameplay and Mechanics](docs/mechanics.md) [WIP]
 - Core gameplay mechanics
 - Combat system
 - Character progression
 
-### 3. [Story and Narrative](docs/story.md)
+### 3. [Story and Narrative](docs/narrative.md) [TODO]
 - Main storyline
 - Characters and motivations
 - Lore and world-building
 
-### 4. [Game World](docs/world.md)
+### 4. [Game World](docs/world.md) [TODO]
 - Locations and their characteristics
 - Ecosystem and world interactions
 - Level design
 
-### 5. [Economy and Balance](docs/economy.md)
+### 5. [Economy and Balance](docs/economy.md) [TODO]
 - In-game currency system
 - Progression balance
 - Game economy model
 
-### 6. [User Interface & UX](docs/ui_ux.md)
+### 6. [User Interface & UX](docs/ui_ux.md) [TODO]
 - Key screens and navigation
 - Usability principles
 - Player experience design
 
-### 7. [Technical Details](docs/technical.md)
+### 7. [Technical Details](docs/technical.md) [TODO]
 - Game engine and technologies
 - Project architecture
 - Optimization and system requirements
